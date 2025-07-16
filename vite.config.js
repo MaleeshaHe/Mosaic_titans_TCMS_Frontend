@@ -8,7 +8,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "https://api.texascollege.me",
+        target: "https://mosaic-titans-tcms-backend.onrender.com",
         secure: false,
       },
     },
