@@ -71,8 +71,9 @@ import TutorVirtualClasses from './pages/Tutor/virtual_classes';
 import TutorMyProfile from './pages/Tutor/MyProfile';
 import TutorUploadAssignments from './pages/Tutor/upload_assignments';
 import TutorNewTest from './pages/Tutor/NewTest';
-import TeacherQuizDashboard from './pages/Tutor/TeacherQuizDashboard'
-import QuizCreator from './pages/Tutor/QuizCreator'
+import TeacherQuizDashboard from './pages/Tutor/TeacherQuizDashboard';
+import QuizCreator from './pages/Tutor/QuizCreator';
+import Courses from "./pages/student/Courses";
 
 
 export default function App() {
